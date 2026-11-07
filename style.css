@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5; /* Branco-acinzentado clássico */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #111;
+    overflow-y: hidden;
+}
+
+#timeline {
+    display: flex;
+    flex-direction: row;
+    width: max-content;
+    height: 100vh;
+}
+
+.artifact-screen {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    border-right: 1px solid #e0e0e0;
+}
+
+.artifact-content {
+    max-width: 600px;
+    text-align: center;
+}
+
+.artifact-date {
+    font-size: 1rem;
+    color: #777;
+    margin-bottom: 8px;
+    letter-spacing: 2px;
+}
+
+.artifact-title {
+    font-size: 2.8rem;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.artifact-image {
+    height: 120px; /* Mantém os logotipos alinhados e proporcionais */
+    width: auto;
+    max-width: 250px;
+    object-fit: contain;
+    margin-bottom: 40px;
+    filter: drop-shadow(0px 4px 8px rgba(0,0,0,0.03));
+}
+
+.artifact-summary {
+    font-size: 1.15rem;
+    line-height: 1.6;
+    color: #333;
+}
