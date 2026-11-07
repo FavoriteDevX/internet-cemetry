@@ -1,0 +1,122 @@
+[
+  {
+    "title": "AOL Dial-Up",
+    "date": "1991 — 2025",
+    "summary": "The definitive gateway to the early consumer internet, AOL Dial-Up connected millions of homes worldwide through analog telephone lines. Celebrated for its iconic 'You've Got Mail!' greeting, startup chimes, and ubiquitous free-trial CD-ROMs, the service peaked at over 30 million subscribers globally in 2001. Over the next two decades, broadband and fiber-optic networks systematically replaced dial-up infrastructure. After serving fewer than 300,000 legacy users, AOL officially decommissioned its dial-up service and specialized access software, marking the absolute end of an entire generation's digital awakening.",
+    "search_anchor_query": "AOL Dial-Up classic software user interface 1990s desktop screenshot"
+  },
+  {
+    "title": "Internet Explorer",
+    "date": "1995 — 2022",
+    "summary": "Bundled natively with Windows 95, Internet Explorer (IE) won the fierce 'First Browser War' against Netscape Navigator to claim over 95% of global market share by 2003. Its monopolistic bundling strategy sparked a monumental antitrust lawsuit by the United States government. As web standards evolved, IE famously became a bottleneck due to performance issues, security vulnerabilities, and its non-standard rendering engine. The rise of fast, modern competitors like Mozilla Firefox and Google Chrome gradually stripped away its dominance. Microsoft eventually abandoned active development to launch Microsoft Edge, completely retiring IE desktop support after 27 years.",
+    "search_anchor_query": "Internet Explorer 6 Windows XP browser window screenshot"
+  },
+  {
+    "title": "AOL Instant Messenger (AIM)",
+    "date": "1997 — 2017",
+    "summary": "AIM pioneered real-time personal desktop communication and shaped early internet vernacular throughout the late 1990s and early 2000s. It introduced foundational concepts that exist in modern social media today, including customizable text screen names, status updates (Away Messages), personalized buddy lists, and early internet slang like 'LOL' and 'BRB'. At its zenith, AIM boasted over 100 million users. The product failed to transition successfully into the smartphone era, eventually succumbing to the rising dominance of integrated mobile SMS protocols, WhatsApp, and social network messaging suites.",
+    "search_anchor_query": "AOL Instant Messenger AIM buddy list away message client interface screenshot"
+  },
+  {
+    "title": "Microsoft MSN Messenger",
+    "date": "1999 — 2014",
+    "summary": "MSN Messenger (later rebranded as Windows Live Messenger) was Microsoft's flagship chat client that dominated global instant messaging during the 2000s, peaking at 330 million monthly active users. The application captured youth culture with deeply interactive features like screen shaking 'Nudges', custom audio-visual emoticons, 'Winks', and integration showing what music a user was playing via Windows Media Player. Following Microsoft's massive acquisition of Skype, the company initiated a multi-year global phase-out, prompting users to migrate accounts until the final servers in Mainland China were shut down permanently.",
+    "search_anchor_query": "Windows Live MSN Messenger chat window screen nudge interface 2000s screenshot"
+  },
+  {
+    "title": "BlackBerry OS",
+    "date": "1999 — 2022",
+    "summary": "The operating system behind the enterprise mobile revolution, BlackBerry OS was the golden standard for corporate executives and world leaders throughout the 2000s. Its core architecture focused heavily on hardware QWERTY keyboards, military-grade end-to-end data encryption, and the exclusive BlackBerry Messenger (BBM) ecosystem. However, the software structure struggled to scale with the consumer-driven paradigm shift toward capacitive full-touch displays, expansive app stores, and rich web browsing introduced by Apple iOS and Google Android. On January 4, 2022, infrastructure servers were taken offline, rendering legacy business devices incapable of making standard cellular data calls or sending messages.",
+    "search_anchor_query": "BlackBerry OS 7 smartphone home screen interface legacy screenshot"
+  },
+  {
+    "title": "Orkut",
+    "date": "2004 — 2014",
+    "summary": "Named after its creator, Google engineer Orkut Büyükkökten, Orkut was Google's first massive foray into social networking. While it experienced moderate adoption in the United States, it became an overwhelming cultural phenomenon in Brazil and India, capturing over 30 million active users who meticulously curated hyper-specific fan communities, visual scrapbooks (Scraps), and user-rating systems. Despite its intense regional loyalty, severe website redesign setbacks, slow loading speeds, and the explosive rise of Facebook's cleaner UI led to its global downfall. Google officially shut it down to consolidate its engineering focus on alternative video and social systems.",
+    "search_anchor_query": "Orkut social network community page scrap profile interface screenshot"
+  },
+  {
+    "title": "Google+",
+    "date": "2011 — 2019",
+    "summary": "Google+ launched as a direct, aggressive challenge to Facebook's social media monopoly. It introduced innovative structural frameworks, including organizing connections into specific 'Circles', instant group video chats via 'Hangouts', and automated high-quality photo backing. To force user adoption, Google controversiallly tied Google+ accounts into YouTube comments and Android setup pipelines. This mandatory integration alienated users, resulting in low organic engagement levels. Following the discovery of a major API security vulnerability exposing private user profile data, Google decommissioned the consumer network entirely.",
+    "search_anchor_query": "Google Plus social network profile stream dashboard interface 2012 screenshot"
+  },
+  {
+    "title": "WWE Network",
+    "date": "2014 — 2021",
+    "summary": "WWE Network was a disruptive, pioneering standalone over-the-top (OTT) streaming service that changed how major combat sports and entertainment media distributed pay-per-view events. Moving away from traditional cable television providers, the platform offered fans a massive vault of legacy wrestling footage and monthly premium live events for a flat subscription rate. As global media trends shifted toward streaming consolidation, WWE sold its exclusive domestic licensing rights to NBCUniversal's Peacock streaming platform, effectively sunsetting the standalone application within the United States.",
+    "search_anchor_query": "WWE Network original streaming media interface catalog display screenshot"
+  },
+  {
+    "title": "Google Play Music",
+    "date": "2011 — 2020",
+    "summary": "Google Play Music operated as a dual-threat hybrid locker service and on-demand streaming music catalog, allowing users to upload 50,000 personal audio tracks to the cloud for free alongside a premium streaming library. The service was highly regarded for its smart radio curation based on user mood and activity. In an effort to streamline its corporate branding and compete directly with Spotify and Apple Music, Alphabet phased out Play Music, forcing subscribers to port libraries over to the newly designed YouTube Music app.",
+    "search_anchor_query": "Google Play Music orange app interface library screen player screenshot"
+  },
+  {
+    "title": "Vine",
+    "date": "2013 — 2017",
+    "summary": "Acquired by Twitter prior to its official public launch, Vine invented the modern format of micro-video internet entertainment by restricting creators to looping, six-second video clips. The platform's strict constraint sparked an era of avant-garde visual comedy and launched the careers of iconic digital creators. Despite its massive cultural reach, Vine collapsed due to its inability to monetize content or retain top creators, who migrated to platforms like Instagram and YouTube that offered longer runtimes and better revenue splits. Vine's short-form DNA serves as the direct blueprint for TikTok.",
+    "search_anchor_query": "Vine mobile app feed six second video interface looping screenshot"
+  },
+  {
+    "title": "Periscope",
+    "date": "2015 — 2021",
+    "summary": "Periscope popularized real-time mobile video broadcasting, allowing users to instantly transmit live video streams directly from a smartphone to a global audience, who interacted via floating hearts and real-time chat overlays. Twitter acquired the startup before its public release to combat rival app Meerkat. Over time, Twitter integrated live broadcasting capabilities directly into its main native application, causing Periscope's standalone user base to dwindle. Facing unsustainable backend infrastructure maintenance costs, the app was removed from global app stores.",
+    "search_anchor_query": "Periscope live video streaming mobile app interface hearts overlay screenshot"
+  },
+  {
+    "title": "Mixer",
+    "date": "2016 — 2020",
+    "summary": "Originally launched as Beam and subsequently acquired by Microsoft, Mixer was a video game streaming platform designed to break Twitch's monopoly. It boasted industry-leading low-latency streaming technologies and interactive viewer features. Microsoft invested hundreds of millions of dollars to secure multi-million-dollar exclusivity contracts with top-tier streamers like Ninja and Shroud. However, Mixer struggled to gain organic community market share and viewer numbers remained low. Microsoft abruptly cancelled the service and partnered with Facebook Gaming to offload its existing streaming infrastructure.",
+    "search_anchor_query": "Microsoft Mixer live video game streaming dashboard website interface screenshot"
+  },
+  {
+    "title": "YouTube Stories",
+    "date": "2017 — 2023",
+"summary": "Originally introduced under the name 'YouTube Reels', YouTube Stories was a mobile-only copycat feature mimicking the transient, ephemeral video format pioneered by Snapchat and Instagram Stories. Available exclusively to creators with over 10,000 subscribers, the short updates expired after seven days. The feature struggled to find a unique identity within a long-form video engine. As YouTube shifted its massive corporate focus toward conquering vertical video to counter TikTok, Stories was officially shut down to redirect all development assets into YouTube Shorts.",
+"search_anchor_query": "YouTube Stories mobile app creator interface ephemeral video screenshot"
+},
+{
+"title": "IGTV (Instagram TV)",
+"date": "2018 — 2022",
+"summary": "IGTV was Meta's dedicated standalone app and native feature built to challenge YouTube by accommodating long-form, vertical video content up to 60 minutes long. Instagram heavily promoted the format with a distinct dedicated button on the main app dashboard. IGTV struggled because users preferred Instagram for quick, casual browsing rather than long-form immersion, and creators found vertical formats restrictive for high-production videos. Meta eventually consolidated all video formats into a unified Instagram Video tab to prioritize their short-form Reels engine.",
+"search_anchor_query": "Instagram IGTV long form vertical video app channel dashboard screenshot"
+},
+{
+"title": "Google Podcasts",
+"date": "2018 — 2024",
+"summary": "Google Podcasts offered a highly lightweight, clean, and algorithmic audio-listening utility across Android, iOS, and web platforms. It seamlessly indexed millions of RSS feeds and integrated deeply into Google Assistant smart home hardware ecosystems. Following a corporate strategic pivot to challenge Spotify's audio supremacy, Alphabet decided to centralize its digital media offerings under the dominant YouTube brand. The dedicated app was shut down globally, forcing millions of podcast listeners to migrate subscription data over to YouTube Music.",
+"search_anchor_query": "Google Podcasts app interface clean grid material design layout screenshot"
+},
+{
+"title": "Google Movies & TV / Google Play Movies",
+"date": "2012 — 2024",
+"summary": "Originally launched as part of the Google Play digital marketplace expansion, this platform allowed users to purchase or rent digital feature-length films and television series. Over a decade-long transition, Alphabet gradually fragmented and dissolved the branding—transferring the digital libraries out of the Google Play Store and into the dedicated Android TV interface and YouTube purchases tab. The standalone mobile apps and smart TV extensions were completely discontinued, finalyzing Google's exit from direct digital video storefront media.",
+"search_anchor_query": "Google Play Movies TV app storefront digital media library interface screenshot"
+},
+{
+"title": "Facebook Gaming",
+"date": "2018 — 2022",
+"summary": "Meta introduced Facebook Gaming as a standalone app and web dashboard to aggressively tap into the lucrative live game streaming industry dominated by Twitch and YouTube. It focused heavily on community chat groups, creator fan subscriptions, and internal gaming mini-apps. Despite incorporating Mixer's community infrastructure, the dedicated mobile application failed to capture a sustainable, dedicated consumer gaming audience. Meta permanently removed the standalone application from app stores, absorbing the remaining streaming elements back into the primary Facebook app feed.",
+"search_anchor_query": "Facebook Gaming mobile app dashboard live stream portal interface screenshot"
+},
+{
+"title": "Google Stadia",
+"date": "2019 — 2023",
+"summary": "Stadia was Google's ambitious cloud gaming platform that aimed to eliminate traditional console hardware by streaming AAA video games directly to browsers, Chromecasts, and mobile devices at 4K resolution. Despite powerful streaming technology, Stadia's consumer adoption faltered due to a highly criticized monetization model that forced users to purchase individual games at full retail price on top of a monthly subscription fee, paired with a lack of compelling first-party exclusive games. Google abruptly terminated the service, issuing full hardware and software refunds to all purchasers.",
+"search_anchor_query": "Google Stadia cloud gaming platform dashboard browser controller interface screenshot"
+},
+{
+"title": "Humane AI Pin",
+"date": "2023 — 2025",
+"summary": "The Humane AI Pin was a highly publicized ambient hardware wearable designed by former Apple engineers to replace smartphones with a conversational voice interface and a laser projection display that beamed text onto the user's palm. Following its commercial launch, the device faced near-universal criticism for severe overheating issues, slow AI response latency, short battery life, and an unreliable touch gesture interface. Failing to meet minimum sales expectations and struggling with high hardware return rates, the product was discontinued, becoming an iconic modern case study on overhyped first-generation AI hardware.",
+"search_anchor_query": "Humane AI Pin wearable device laser palm projection display preview photo"
+},
+{
+"title": "ChatGPT Atlas",
+"date": "2025 — 2026",
+"summary": "Launched by OpenAI as an experimental, specialized web browser with native intelligence, ChatGPT Atlas was built to redefine web navigation. It accompanied users across websites, utilizing a sophisticated 'Agent Mode' capable of conducting deep research, cross-site comparisons, and workflow automations directly inside active tabs. Despite strong interest from power users and its advanced contextual memory architecture, maintaining a custom browser codebase alongside rapid core model releases proved redundant as advanced AI integration became standard inside mainstream desktop browsers, leading OpenAI to deprecate the standalone browser shell.",
+"search_anchor_query": "OpenAI ChatGPT Atlas AI browser interface window application screenshot"
+}
+]
